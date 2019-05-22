@@ -1,6 +1,7 @@
 import java.util.concurrent.Semaphore;
 
 public class AlternatePrint {
+    //jiaaa
 
     private static Semaphore[] semaphores;
     private static final int ThreadNum = 3;
